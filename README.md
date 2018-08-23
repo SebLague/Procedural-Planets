@@ -1,6 +1,3 @@
 # Procedural-Planets
-Source for tutorial series:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QN39W020LqU
-" target="_blank"><img src="http://img.youtube.com/vi/QN39W020LqU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
+Simple procedural planet generation in Unity.
+Watch tutorial series [here](https://www.youtube.com/watch?v=QN39W020LqU&index=2&t=0s&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8).

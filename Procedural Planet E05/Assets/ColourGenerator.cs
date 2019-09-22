@@ -14,6 +14,7 @@ public class ColourGenerator {
         if (texture == null)
         {
             texture = new Texture2D(textureResolution, 1);
+            texture.wrapMode = TextureWrapMode.Clamp;
         }
     }
 
